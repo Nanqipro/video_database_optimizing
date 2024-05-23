@@ -1,0 +1,3 @@
+Label,# Samples,Average,Median,90% Line,95% Line,99% Line,Min,Max,Error %,Throughput,Received KB/sec,Sent KB/sec
+HTTP请求,2000,2,2,4,5,9,1,24,0.000%,993.54198,1799.82,256.15
+TOTAL,2000,2,2,4,5,9,1,24,0.000%,993.54198,1799.82,256.15
