@@ -126,6 +126,6 @@ This project successfully integrates advanced object detection and query optimiz
 ## Contact
 For more information or to contribute, please contact:
 - **Author**: Nanqipro
-- **Email**: 2280285631@qq.com
+- **Email**: ZhaoJ@email.ncu.edu.cn
 
 
